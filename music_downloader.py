@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+# import lines of code
+# response = urlopen('https://www.youtube.com/results?search_query=' + search)
+# command = 'youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 ' + video_link
 from __future__ import print_function
 import os
 import re
